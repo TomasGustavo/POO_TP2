@@ -4,11 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/POOTP2.iml" filepath="$PROJECT_DIR$/.idea/POOTP2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Punto1/Punto1.iml" filepath="$PROJECT_DIR$/Punto1/Punto1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Punto10/Punto10.iml" filepath="$PROJECT_DIR$/Punto10/Punto10.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Punto11/Punto11.iml" filepath="$PROJECT_DIR$/Punto11/Punto11.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Punto12/Punto12.iml" filepath="$PROJECT_DIR$/Punto12/Punto12.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Punto13/Punto13.iml" filepath="$PROJECT_DIR$/Punto13/Punto13.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Punto14/Punto14.iml" filepath="$PROJECT_DIR$/Punto14/Punto14.iml" />
       <module fileurl="file://$PROJECT_DIR$/Punto2/Punto2.iml" filepath="$PROJECT_DIR$/Punto2/Punto2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Punto3/Punto3.iml" filepath="$PROJECT_DIR$/Punto3/Punto3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Punto4/Punto4.iml" filepath="$PROJECT_DIR$/Punto4/Punto4.iml" />
